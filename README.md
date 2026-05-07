@@ -15,16 +15,16 @@ INSTAGRAM!
 - Marcos Tirado Sanchez
 
 # Herramientas Utilizadas 
-● HTML 
-● CSS 
-● Bootstrap 
-● Git y GitHub para trabajo colaborativo
+- HTML
+- CSS
+- Bootstrap
+- Git y GitHub para trabajo colaborativo
 
 # El objetivo es practicar: 
-● Maquetación responsiva 
-● Uso de componentes Bootstrap 
-● Trabajo colaborativo con ramas y repositorios 
-● Organización de proyectos frontend 
+- Maquetación responsiva
+- Uso de componentes Bootstrap
+- Trabajo colaborativo con ramas y repositorios
+- Organización de proyectos frontend 
 
 ## Organización del Equipo
 Para este proyecto, hemos dividido la estructura de la siguiente manera:

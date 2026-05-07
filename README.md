@@ -1,6 +1,9 @@
 # Laboratorio-Bootstrap-Laboratorio Colaborativo: Clon de Plataforma 
 Digital con Bootstrap
 
+# Pagina Clonada:
+INSTAGRAM!
+
 # Participantes: 
 - Janice Belen Ovando Garcia
 - Jonas Jihannes Castillo Quintanar 
@@ -23,12 +26,15 @@ Digital con Bootstrap
 ● Trabajo colaborativo con ramas y repositorios 
 ● Organización de proyectos frontend 
 
-#Organizacion
+## Organización del Equipo
+Para este proyecto, hemos dividido la estructura de la siguiente manera:
+
+```text
 │
-├── REPO y estructura → Asenet
-├── NAVBAR         → Emanuel
-├── SIDEBAR IZQ    → Kike
-├── STORIES BAR    → Adrian
-├── ACTION BAR     → Janice
-├── PERFIL CARD    → Jonas
-└── SUGERENCIAS    → Monse
+├── REPO y estructura  → Asenet
+├── NAVBAR             → Emanuel
+├── SIDEBAR IZQ        → Kike
+├── STORIES BAR        → Adrian
+├── ACTION BAR         → Janice
+├── PERFIL CARD        → Jonas
+└── SUGERENCIAS        → Monse

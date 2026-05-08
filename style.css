@@ -13,8 +13,18 @@ body {
 
 /*INICIO: NAVBAR — EMANUEL*/
 
-nav {
-  /* escribe aquí tus estilos del navbar */
+.fixed-bottom-right {
+  position: fixed;       /* Se queda fijo en pantalla */
+  bottom: 40px;          /* Distancia desde el borde inferior */
+  right: 40px;           /* Distancia desde el borde derecho */
+  border-radius: 5%;    /* Bordes redondeados (círculo) */
+  cursor: pointer;       /* Cambia el cursor al pasar encima */
+}
+
+.fixed-bottom-right img {
+  width: 252px;           /* Tamaño de la imagen */
+  height: 50px;
+  border-radius: 5%;    /* Imagen también redonda */
 }
 
 /* FIN: NAVBAR — EMANUEL */

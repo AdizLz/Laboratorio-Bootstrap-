@@ -27,7 +27,8 @@ INSTAGRAM!
 - overflow-auto — scroll horizontal
 - rounded-circle y border border-danger — estilo de la foto
 - align-items-center y small — alineación y texto
-- 
+- icons de bootstrap para el Action Bar
+-
 
 # El objetivo es practicar: 
 - Maquetación responsiva

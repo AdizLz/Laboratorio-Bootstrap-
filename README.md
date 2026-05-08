@@ -20,6 +20,12 @@ INSTAGRAM!
 - Bootstrap
 - Git y GitHub para trabajo colaborativo
 
+# Bootstrap Utilizado 
+- El CDN (Content Delivery Network)
+- 
+- 
+- 
+
 # El objetivo es practicar: 
 - Maquetación responsiva
 - Uso de componentes Bootstrap

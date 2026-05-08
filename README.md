@@ -1,6 +1,8 @@
 # Laboratorio-Bootstrap-Laboratorio Colaborativo: Clon de Plataforma 
 Digital con Bootstrap
 
+<img width="1890" height="956" alt="image" src="https://github.com/user-attachments/assets/57f33ce0-0a86-4672-9c04-8beb7863c27e" />
+
 # Pagina Clonada:
 INSTAGRAM!
 

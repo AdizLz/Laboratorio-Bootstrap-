@@ -194,7 +194,7 @@ aside.col-md-2 {
   font-family: system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
 }
 
-/* Botones de acción tipo IG */
+/* Botones de acción */
 .ig-action-btn{
   appearance: none;
   border: 0;
@@ -224,7 +224,7 @@ aside.col-md-2 {
 
 /* Hover y click */
 .ig-action-btn:hover{
-  background: rgba(0,0,0,.06);
+  background: rgba(196, 54, 54, 0.06);
 }
 
 .ig-action-btn:active{
@@ -267,17 +267,45 @@ aside.col-md-2 {
   letter-spacing: .02em;
   margin-top: .35rem;
 }
-
-/* Accesibilidad: foco visible */
-.ig-action-btn:focus-visible,
-.ig-link-btn:focus-visible{
-  outline: 2px solid #0d6efd;
-  outline-offset: 2px;
-  border-radius: .5rem;
-}
-
 /* FIN: ACTION BAR — JANICE */
 
+/* COMENTARIO JANICE */
+.ig-comment-scope{
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  border-top: 1px solid #dbdbdb;
+  padding: 6px 12px;
+  background: #fff;
+}
+
+/* SOLO el input dentro de esto */
+.ig-comment-scope input{
+  flex: 1;
+  border: none;
+  outline: none;
+  box-shadow: none;
+  font-size: 14px;
+  color: #262626;
+  padding: 6px 0;
+}
+
+/* placeholder*/
+.ig-comment-scope input::placeholder{
+  color: #8e8e8e;
+}
+
+/* botón */
+.ig-comment-scope button{
+  border: none;
+  background: transparent;
+
+  font-size: 14px;
+  font-weight: 600;
+  color: #0d0d0e;
+  cursor: pointer;
+}
+/*TERMINA COMENTARIO Y CODIGO DE JANICE/
 
 /* INICIO: PERFIL CARD — JONAS */
 
